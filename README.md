@@ -1,0 +1,1 @@
+This model uses kaggle dataset of 10000 images of cat and dog. <br> Accuracy - 81.8% (can be increased more using dropouts and batchNorm but leaving it here since using CPU based system and its taking alot.... time in training)
